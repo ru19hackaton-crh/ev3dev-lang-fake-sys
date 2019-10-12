@@ -9,7 +9,8 @@ class_path = {
         'infrared_sensor' : 'lego-sensor/sensor{0}',
         'touch_sensor'    : 'lego-sensor/sensor{0}',
         'medium_motor'    : 'tacho-motor/motor{0}',
-        'large_motor'    : 'tacho-motor/motor{0}'
+        'large_motor'    : 'tacho-motor/motor{0}',
+        'color_sensor'    : 'lego-sensor/sensor{0}',
         }
 
 def populate_arena(devices):
